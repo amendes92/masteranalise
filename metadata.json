@@ -1,0 +1,5 @@
+{
+  "name": "RepoAnalyzer AI",
+  "description": "Analisa repositórios GitHub para gerar estratégias de negócio, personas, análise técnica e esquemas de banco de dados usando Gemini AI.",
+  "requestFramePermissions": []
+}
